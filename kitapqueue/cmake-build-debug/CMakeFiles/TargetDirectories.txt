@@ -1,0 +1,3 @@
+D:/CLionProjects/kitapqueue/cmake-build-debug/CMakeFiles/kitapqueue.dir
+D:/CLionProjects/kitapqueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/kitapqueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/CLionProjects/Stack with LL/cmake-build-debug/CMakeFiles/stack.dir
+D:/CLionProjects/Stack with LL/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Stack with LL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:\Users\seda\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\kitapqueue.dir/objects.a
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\kitapqueue.dir/objects.a @CMakeFiles\kitapqueue.dir\objects1.rsp
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\kitapqueue.dir/objects.a -Wl,--no-whole-archive  -o kitapqueue.exe -Wl,--out-implib,libkitapqueue.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kitapqueue.dir\linklibs.rsp

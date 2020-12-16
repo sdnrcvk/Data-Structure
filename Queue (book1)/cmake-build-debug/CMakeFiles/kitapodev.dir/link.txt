@@ -1,0 +1,3 @@
+C:\Users\seda\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\kitapodev.dir/objects.a
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\kitapodev.dir/objects.a @CMakeFiles\kitapodev.dir\objects1.rsp
+C:\PROGRA~2\Dev-Cpp\MinGW64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\kitapodev.dir/objects.a -Wl,--no-whole-archive  -o kitapodev.exe -Wl,--out-implib,libkitapodev.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kitapodev.dir\linklibs.rsp
